@@ -329,13 +329,3 @@ adk web
 ```
 
 ---
-
-## 📄 License
-
-MIT License - feel free to use this for your agency!
-
----
-
----
-
-Built with ❤️ using [Google Agent Development Kit (ADK)](https://github.com/google/adk)
